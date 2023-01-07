@@ -1,0 +1,593 @@
+fileFormatVersion: 2
+guid: c0dc7d2ef64604c519719a41e7e747c0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7200370992580343606
+    second: thumbnail_old_man_backview_animations_spritesheet_0
+  - first:
+      213: -156358478555933647
+    second: thumbnail_old_man_backview_animations_spritesheet_1
+  - first:
+      213: 5620698029265611505
+    second: thumbnail_old_man_backview_animations_spritesheet_2
+  - first:
+      213: 3047903251569332707
+    second: thumbnail_old_man_backview_animations_spritesheet_3
+  - first:
+      213: 7440637443190605447
+    second: thumbnail_old_man_backview_animations_spritesheet_4
+  - first:
+      213: 7724702287882868185
+    second: thumbnail_old_man_backview_animations_spritesheet_5
+  - first:
+      213: 4227511820597389164
+    second: thumbnail_old_man_backview_animations_spritesheet_6
+  - first:
+      213: 1409904308357456992
+    second: thumbnail_old_man_backview_animations_spritesheet_7
+  - first:
+      213: -5483473560672096769
+    second: thumbnail_old_man_backview_animations_spritesheet_8
+  - first:
+      213: 87085745762286368
+    second: thumbnail_old_man_backview_animations_spritesheet_9
+  - first:
+      213: 722930571024185139
+    second: thumbnail_old_man_backview_animations_spritesheet_10
+  - first:
+      213: 6694354795909214584
+    second: thumbnail_old_man_backview_animations_spritesheet_11
+  - first:
+      213: -1920042516484250771
+    second: thumbnail_old_man_backview_animations_spritesheet_12
+  - first:
+      213: -4157439092593946701
+    second: thumbnail_old_man_backview_animations_spritesheet_13
+  - first:
+      213: -3505357777927329033
+    second: thumbnail_old_man_backview_animations_spritesheet_14
+  - first:
+      213: -6633248490518539990
+    second: thumbnail_old_man_backview_animations_spritesheet_15
+  - first:
+      213: -1599743622880424421
+    second: thumbnail_old_man_backview_animations_spritesheet_16
+  - first:
+      213: 4752863500200474197
+    second: thumbnail_old_man_backview_animations_spritesheet_17
+  - first:
+      213: 8082078108106251584
+    second: thumbnail_old_man_backview_animations_spritesheet_18
+  - first:
+      213: -7769920138617759749
+    second: thumbnail_old_man_backview_animations_spritesheet_19
+  - first:
+      213: -9059789172550296672
+    second: thumbnail_old_man_backview_animations_spritesheet_20
+  - first:
+      213: -8139032202976399972
+    second: thumbnail_old_man_backview_animations_spritesheet_21
+  - first:
+      213: 1109105757763326832
+    second: thumbnail_old_man_backview_animations_spritesheet_22
+  - first:
+      213: 6744207094284946187
+    second: thumbnail_old_man_backview_animations_spritesheet_23
+  - first:
+      213: -1197273044987604763
+    second: thumbnail_old_man_backview_animations_spritesheet_24
+  - first:
+      213: -8356476311702739623
+    second: thumbnail_old_man_backview_animations_spritesheet_25
+  - first:
+      213: -7748988988149369659
+    second: thumbnail_old_man_backview_animations_spritesheet_26
+  - first:
+      213: -4076559779015964446
+    second: thumbnail_old_man_backview_animations_spritesheet_27
+  - first:
+      213: 8983324556885478377
+    second: thumbnail_old_man_backview_animations_spritesheet_28
+  - first:
+      213: -3806081259627327989
+    second: thumbnail_old_man_backview_animations_spritesheet_29
+  - first:
+      213: 6114491292766798740
+    second: thumbnail_old_man_backview_animations_spritesheet_30
+  - first:
+      213: -7548569962988600756
+    second: thumbnail_old_man_backview_animations_spritesheet_31
+  - first:
+      213: -2593770819790606199
+    second: thumbnail_old_man_backview_animations_spritesheet_32
+  - first:
+      213: 6990284458617967401
+    second: thumbnail_old_man_backview_animations_spritesheet_33
+  - first:
+      213: -4883783940026517427
+    second: thumbnail_old_man_backview_animations_spritesheet_34
+  - first:
+      213: 8639230493500521230
+    second: thumbnail_old_man_backview_animations_spritesheet_35
+  - first:
+      213: -4943994084758055194
+    second: thumbnail_old_man_backview_animations_spritesheet_36
+  - first:
+      213: 6012663648915834562
+    second: thumbnail_old_man_backview_animations_spritesheet_37
+  - first:
+      213: 3742008332916490276
+    second: thumbnail_old_man_backview_animations_spritesheet_38
+  - first:
+      213: -7460333714322696762
+    second: thumbnail_old_man_backview_animations_spritesheet_39
+  - first:
+      213: -7772557540477481340
+    second: thumbnail_old_man_backview_animations_spritesheet_40
+  - first:
+      213: -4712437894556240730
+    second: thumbnail_old_man_backview_animations_spritesheet_41
+  - first:
+      213: -5862466481158543954
+    second: thumbnail_old_man_backview_animations_spritesheet_42
+  - first:
+      213: 2463412743932883507
+    second: thumbnail_old_man_backview_animations_spritesheet_43
+  - first:
+      213: 8515174608991770651
+    second: thumbnail_old_man_backview_animations_spritesheet_44
+  - first:
+      213: -8133290655669044818
+    second: thumbnail_old_man_backview_animations_spritesheet_45
+  - first:
+      213: 7395452921892560558
+    second: thumbnail_old_man_backview_animations_spritesheet_46
+  - first:
+      213: -5133918484718462795
+    second: thumbnail_old_man_backview_animations_spritesheet_47
+  - first:
+      213: -8647741969739257551
+    second: thumbnail_old_man_backview_animations_spritesheet_48
+  - first:
+      213: -228240766177627701
+    second: thumbnail_old_man_backview_animations_spritesheet_49
+  - first:
+      213: -384067310757556153
+    second: thumbnail_old_man_backview_animations_spritesheet_50
+  - first:
+      213: -8856226053396646590
+    second: thumbnail_old_man_backview_animations_spritesheet_51
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Lumin
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: thumbnail_old_man_backview_animations_spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac8c8304bb4231c90800000000000000
+      internalID: -7200370992580343606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbnail_old_man_backview_animations_spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1349d0ccac084ddf0800000000000000
+      internalID: -156358478555933647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbnail_old_man_backview_animations_spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fa6d10f31bb00e40800000000000000
+      internalID: 5620698029265611505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbnail_old_man_backview_animations_spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e15c8bdbd35c4a20800000000000000
+      internalID: 3047903251569332707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbnail_old_man_backview_animations_spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 786c8d71554724760800000000000000
+      internalID: 7440637443190605447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbnail_old_man_backview_animations_spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d5d7e8bdc7a33b60800000000000000
+      internalID: 7724702287882868185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbnail_old_man_backview_animations_spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c67e87e3a932baa30800000000000000
+      internalID: 4227511820597389164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbnail_old_man_backview_animations_spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06460fa9f7cf09310800000000000000
+      internalID: 1409904308357456992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbnail_old_man_backview_animations_spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffda4e869d9c6e3b0800000000000000
+      internalID: -5483473560672096769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbnail_old_man_backview_animations_spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02b392d3604653100800000000000000
+      internalID: 87085745762286368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbnail_old_man_backview_animations_spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 337ba2b268d580a00800000000000000
+      internalID: 722930571024185139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbnail_old_man_backview_animations_spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 871f99af73027ec50800000000000000
+      internalID: 6694354795909214584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbnail_old_man_backview_animations_spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d632f4b0183aa55e0800000000000000
+      internalID: -1920042516484250771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

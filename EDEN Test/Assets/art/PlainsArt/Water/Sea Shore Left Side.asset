@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
+  m_Name: Sea Shore Left Side
+  m_EditorClassIdentifier: 
+  m_AnimatedSprites:
+  - {fileID: 6091937572709105434, guid: d51754f0fb2b946e68e3d6d92e22c141, type: 3}
+  - {fileID: -594431974432165963, guid: d51754f0fb2b946e68e3d6d92e22c141, type: 3}
+  - {fileID: 4568785600738587549, guid: d51754f0fb2b946e68e3d6d92e22c141, type: 3}
+  - {fileID: 7242871166892342230, guid: d51754f0fb2b946e68e3d6d92e22c141, type: 3}
+  m_MinSpeed: 3
+  m_MaxSpeed: 3
+  m_AnimationStartTime: 0
+  m_AnimationStartFrame: 0
+  m_TileColliderType: 2

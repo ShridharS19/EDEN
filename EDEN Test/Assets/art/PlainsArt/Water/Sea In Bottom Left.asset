@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
+  m_Name: Sea In Bottom Left
+  m_EditorClassIdentifier: 
+  m_AnimatedSprites:
+  - {fileID: -3478441610379042968, guid: 150d93ddf9f9d4f24890c861001b26e0, type: 3}
+  - {fileID: 2627077901995625118, guid: 150d93ddf9f9d4f24890c861001b26e0, type: 3}
+  - {fileID: 6651618650840771751, guid: 150d93ddf9f9d4f24890c861001b26e0, type: 3}
+  - {fileID: 4291720057601342656, guid: 150d93ddf9f9d4f24890c861001b26e0, type: 3}
+  m_MinSpeed: 3
+  m_MaxSpeed: 3
+  m_AnimationStartTime: 0
+  m_AnimationStartFrame: 0
+  m_TileColliderType: 2

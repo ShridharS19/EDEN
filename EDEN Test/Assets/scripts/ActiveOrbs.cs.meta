@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 57a7dbef0ce9f41ad8b55a2a80a34332
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - FireEffect: {instanceID: 0}
+  - OrbInventory: {fileID: 6713586647789440010, guid: 3ee7d37b8a0de324c9e30d116da092cc,
+      type: 3}
+  - GrassCloseEffect: {instanceID: 0}
+  - Lightningeffect: {instanceID: 0}
+  - Groundeffect: {instanceID: 0}
+  - WindEffect: {instanceID: 0}
+  - Grasseffect: {instanceID: 0}
+  - LightningeffectRadiating: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

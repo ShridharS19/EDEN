@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - projectile
+  - block
+  - item_UI
+  - armourInv
+  - potion_projectile
+  - healthbar
+  - pickableItems
+  - MagBlock
+  - ArmourBlock
+  - block_UI
+  - arrowDisplay_UI
+  - blockImageDisplayUI
+  - DummyPlayer
+  - camera
+  - NPC
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - playerlayer
+  - enemy_layer
+  - pickableItems
+  - UIbackground
+  - block
+  - lightning
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: base
+    uniqueID: 1446551893
+    locked: 0
+  - name: path
+    uniqueID: 440506241
+    locked: 0
+  - name: collidables
+    uniqueID: 1403691401
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0

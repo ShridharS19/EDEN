@@ -1,0 +1,452 @@
+fileFormatVersion: 2
+guid: 35e08d37361514f57b332ccc46168f96
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7244014342084423531
+    second: lightening effect enemy radiation_0
+  - first:
+      213: -2486770460136651781
+    second: lightening effect enemy radiation_1
+  - first:
+      213: 3269218066390531664
+    second: lightening effect enemy radiation_2
+  - first:
+      213: 5791802141563316404
+    second: lightening effect enemy radiation_3
+  - first:
+      213: 6409413184114563280
+    second: lightening effect enemy radiation_4
+  - first:
+      213: 7003009213934761001
+    second: lightening effect enemy radiation_5
+  - first:
+      213: 6357232105752285477
+    second: lightening effect enemy radiation_6
+  - first:
+      213: 2641538054629317195
+    second: lightening effect enemy radiation_7
+  - first:
+      213: 3217638112549807108
+    second: lightening effect enemy radiation_8
+  - first:
+      213: -3889035198385293091
+    second: lightening effect enemy radiation_9
+  - first:
+      213: 1338605547460314825
+    second: lightening effect enemy radiation_10
+  - first:
+      213: 4869995029764183938
+    second: lightening effect enemy radiation_11
+  - first:
+      213: -384573490604339496
+    second: lightening effect enemy radiation_12
+  - first:
+      213: -8343005559269435085
+    second: lightening effect enemy radiation_13
+  - first:
+      213: 3203348974766705545
+    second: lightening effect enemy radiation_14
+  - first:
+      213: 7388495380541312402
+    second: lightening effect enemy radiation_15
+  - first:
+      213: -4278423402812620747
+    second: lightening effect enemy radiation_16
+  - first:
+      213: -6955366363132694410
+    second: lightening effect enemy radiation_17
+  - first:
+      213: 4242639405727535659
+    second: lightening effect enemy radiation_18
+  - first:
+      213: -3932420681818118177
+    second: lightening effect enemy radiation_19
+  - first:
+      213: 8495223953293223118
+    second: lightening effect enemy radiation_20
+  - first:
+      213: 6532801688510607314
+    second: lightening effect enemy radiation_21
+  - first:
+      213: 715313487931819512
+    second: lightening effect enemy radiation_22
+  - first:
+      213: 6831817125924170353
+    second: lightening effect enemy radiation_23
+  - first:
+      213: 3278511986045999771
+    second: lightening effect enemy radiation_24
+  - first:
+      213: -2040396278798412369
+    second: lightening effect enemy radiation_25
+  - first:
+      213: 1366688029503359044
+    second: lightening effect enemy radiation_26
+  - first:
+      213: 2550238652985941420
+    second: lightening effect enemy radiation_27
+  - first:
+      213: -3415580237262416268
+    second: lightening effect enemy radiation_28
+  - first:
+      213: 4079562549910301184
+    second: lightening effect enemy radiation_29
+  - first:
+      213: 5936258290202399956
+    second: lightening effect enemy radiation_30
+  - first:
+      213: -3877232277858486270
+    second: lightening effect enemy radiation_31
+  - first:
+      213: 4752876800161604471
+    second: lightening effect enemy radiation_32
+  - first:
+      213: -3214019553716394542
+    second: lightening effect enemy radiation_33
+  - first:
+      213: -7534804266533924383
+    second: lightening effect enemy radiation_34
+  - first:
+      213: 7812987405766292856
+    second: lightening effect enemy radiation_35
+  - first:
+      213: 8878850607392565238
+    second: lightening effect enemy radiation_36
+  - first:
+      213: 3439319986514245088
+    second: lightening effect enemy radiation_37
+  - first:
+      213: -153752839650556970
+    second: lightening effect enemy radiation_38
+  - first:
+      213: 3434091306565596426
+    second: lightening effect enemy radiation_39
+  - first:
+      213: -7194764806593283524
+    second: lightening effect enemy radiation_40
+  - first:
+      213: 4241482676061361321
+    second: lightening effect enemy radiation_41
+  - first:
+      213: 5285716221393299430
+    second: lightening effect enemy radiation_42
+  - first:
+      213: -6072739219938058029
+    second: lightening effect enemy radiation_43
+  - first:
+      213: -4982244020789157962
+    second: lightening effect enemy radiation_44
+  - first:
+      213: 5044688114882165266
+    second: lightening effect enemy radiation_45
+  - first:
+      213: 6461045669844062100
+    second: lightening effect enemy radiation_46
+  - first:
+      213: -2508447892151278836
+    second: lightening effect enemy radiation_47
+  - first:
+      213: 4633978657585090965
+    second: lightening effect enemy radiation_48
+  - first:
+      213: -5242248456103273856
+    second: lightening effect enemy radiation_49
+  - first:
+      213: 2586612792439381315
+    second: lightening effect enemy radiation_50
+  - first:
+      213: -9164140134863199443
+    second: lightening effect enemy radiation_51
+  - first:
+      213: -8404934962656220755
+    second: lightening effect enemy radiation_52
+  - first:
+      213: 940827741458278308
+    second: lightening effect enemy radiation_53
+  - first:
+      213: -4805327888483054155
+    second: lightening effect enemy radiation_54
+  - first:
+      213: 4567220338711368626
+    second: lightening effect enemy radiation_55
+  - first:
+      213: -7962560478539694432
+    second: lightening effect enemy radiation_56
+  - first:
+      213: -753963419093714541
+    second: lightening effect enemy radiation_57
+  - first:
+      213: -869734506041603610
+    second: lightening effect enemy radiation_58
+  - first:
+      213: -589081250793778127
+    second: lightening effect enemy radiation_59
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: lightening effect enemy radiation_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 176
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59019381657187b90800000000000000
+      internalID: -7244014342084423531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightening effect enemy radiation_1
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 384
+        width: 176
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf3ce9521773d7dd0800000000000000
+      internalID: -2486770460136651781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightening effect enemy radiation_2
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 384
+        width: 176
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05e3f74a2889e5d20800000000000000
+      internalID: 3269218066390531664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightening effect enemy radiation_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 176
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b86a398c5d906050800000000000000
+      internalID: 5791802141563316404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightening effect enemy radiation_4
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 192
+        width: 176
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d89ad9155fc2f850800000000000000
+      internalID: 6409413184114563280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightening effect enemy radiation_5
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 192
+        width: 176
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9247e5bc6cfaf2160800000000000000
+      internalID: 7003009213934761001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightening effect enemy radiation_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 176
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 521d21a0bec693850800000000000000
+      internalID: 6357232105752285477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightening effect enemy radiation_7
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 0
+        width: 176
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4a5bde7dd0a8a420800000000000000
+      internalID: 2641538054629317195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
